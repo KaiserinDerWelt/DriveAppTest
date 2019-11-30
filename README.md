@@ -48,11 +48,17 @@ Generate a report containing each driver with total miles driven and average spe
 Example input:
 
 Driver Dan
+
 Driver Lauren
+
 Driver Kumi
+
 Trip Dan 07:15 07:45 17.3
+
 Trip Dan 06:12 06:32 21.8
+
 Trip Lauren 12:01 13:16 42.0
+
 Expected output:
 
 Lauren: 42 miles @ 34 mph
