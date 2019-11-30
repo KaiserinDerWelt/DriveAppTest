@@ -44,7 +44,9 @@ Trip Dan 07:15 07:45 17.3
 Discard any trips that average a speed of less than 5 mph or greater than 100 mph.
 
 Generate a report containing each driver with total miles driven and average speed. Sort the output by most miles driven to least. Round miles and miles per hour to the nearest integer.
-
+git status
+git add
+git commit
 Example input:
 
 Driver Dan
