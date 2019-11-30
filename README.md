@@ -25,7 +25,7 @@ Please be sure that your java version  1.7.0_80 is installed.
 
 Run the programm and enjoy the magic of the functionality and the user interface.
 
-Test the app according the Test Case  "" you can check here. I wanted to be sure that a human understand how to use the app and that be functional to be used in real life.
+Test the app according the Test Case  "https://github.com/KaiserinDerWelt/DriveAppTest/blob/master/TestCase.png" you can check here. I wanted to be sure that a human understand how to use the app and that is functional to be used in real life.
 
 # Execution 
 
