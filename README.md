@@ -29,9 +29,10 @@ Test the app according the Test Case  "https://github.com/KaiserinDerWelt/DriveA
 
 # Execution 
 
-1) Through an IDE
+1) Through an IDE.
 Clone this project from GIT and downloade as ZIP.
 Unzip and pen the folder in your IDE.
+Identify the  RootInsuranceDriverHistory.java File located in the src folder.
 Run the program and use it through the User Interface.
 
 # Problem Statement
