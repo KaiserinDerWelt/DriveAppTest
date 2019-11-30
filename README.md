@@ -22,10 +22,17 @@ Author: ?
 
 # Set Up
 Please be sure that your java version  1.7.0_80 is installed.
+
 Run the programm and enjoy the magic of the functionality and the user interface.
+
 Test the app according the Test Case  "" you can check here. I wanted to be sure that a human understand how to use the app and that be functional to be used in real life.
 
 # Execution 
+
+1) Through an IDE
+Clone this project from GIT and downloade as ZIP.
+Unzip and pen the folder in your IDE.
+Run the program and use it through the User Interface.
 
 # Problem Statement
 
